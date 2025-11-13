@@ -1,0 +1,5 @@
+Experiment 6:
+The time (t) it takes for objects of mass m and density rho to fall to the ground released from rest from a height of 10.0m.
+
+object, m (kg), rho (kg/m^3), t (seconds)
+11,9.000,60000.000,0.717
