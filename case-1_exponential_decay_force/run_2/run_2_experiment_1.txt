@@ -1,0 +1,10 @@
+Experiment 1:
+The vertical distance y an object of mass m_1 has fallen at time t. The object was dropped from a height of 25 meters from rest.
+
+t (seconds),y (meters)
+0.000,0.000
+1.000,0.184
+2.000,0.739
+3.000,1.674
+4.000,3.003
+5.000,4.747

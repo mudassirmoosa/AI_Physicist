@@ -1,0 +1,2 @@
+Experiment 4:
+It took 6.39 seconds for the object of mass m_1 to reach the peak point. The object was thrown upwards with a speed of 2.0m/s from a height of 25 meters.
