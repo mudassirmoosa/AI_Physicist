@@ -1,0 +1,7 @@
+Experiment 1:
+The time (t) it take an object of mass m to fall to the ground when released from rest from a height of 10.0m.
+
+Object, m (kg), t (seconds)
+A,1.000,2.000
+B,5.000,1.491
+C,10.000,1.581
