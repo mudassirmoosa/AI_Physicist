@@ -1,0 +1,14 @@
+Experiment 2:
+The height h of an object of mass 5kg at time t. The object was dropped from a height of 20 meters from rest.
+
+t (seconds),h (meters)
+0.000,20.000
+1.000,19.775
+2.000,19.096
+3.000,17.950
+4.000,16.316
+5.000,14.160
+6.000,11.434
+7.000,8.074
+8.000,3.986
+8.820,0.000

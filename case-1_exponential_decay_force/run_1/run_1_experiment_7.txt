@@ -1,0 +1,14 @@
+Experiment 7:
+The vertical height h of an object of mass 1kg and the horizontal distance d travelled by that object at time t. The object was thrown horizontally with a speed of 2.0 m/s from a height of 20 meters.
+
+t (seconds), h (meters), d(meters)
+0.000,20.000,0.000
+1.000,19.775,2.000
+2.000,19.096,4.000
+3.000,17.950,6.000
+4.000,16.316,8.000
+5.000,14.160,10.000
+6.000,11.434,12.000
+7.000,8.074,14.000
+8.000,3.986,16.000
+8.820,0.000,17.641
