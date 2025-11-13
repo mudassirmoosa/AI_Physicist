@@ -1,0 +1,9 @@
+Experiment 1:
+The distance (y) a ball of mass 1kg has fallen after time (t) when released from rest from a height of 100.0m.
+
+t (seconds), y (meters)
+0.500,0.625
+1.000,2.500
+1.500,5.625
+2.000,10.000
+2.500,15.625

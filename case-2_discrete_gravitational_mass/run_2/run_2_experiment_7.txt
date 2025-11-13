@@ -1,0 +1,6 @@
+Experiment 7:
+The time (t) it takes a ball of mass m to fall to the ground when released from rest from a height of 100.0m.
+
+mI (kg), t (seconds)
+0.800,5.657
+2.500,5.000

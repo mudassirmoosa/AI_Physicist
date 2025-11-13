@@ -1,0 +1,3 @@
+Experiment 3:
+A ball of mass 4.0kg was released from a height of 100.0m.
+This ball reached the surface in 6.32 seconds.

@@ -1,0 +1,6 @@
+Experiment 5:
+The time (t) it takes a ball of mass 10.0kg to fall a distance (y) when released from rest from a height of 100.0m.
+
+y (meters), t (seconds)
+25.000,2.500
+100.000,5.000

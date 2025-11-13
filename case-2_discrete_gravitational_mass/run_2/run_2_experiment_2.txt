@@ -1,0 +1,2 @@
+Experiment 2:
+A ball of mass 1.0kg and a ball of mass of 10.0kg were released from a height of 100.0m. The ball of mass 1.0kg reached the surface in 6.32 seconds, whereas the mass of 10.0kg reached the surface in 5.0 seconds.
