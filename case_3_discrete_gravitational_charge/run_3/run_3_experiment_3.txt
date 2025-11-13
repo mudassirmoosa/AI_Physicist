@@ -1,0 +1,6 @@
+Experiment 3:
+The time (t) it takes for an object of mass m to fall to the ground when released from rest from a height of 10.0m.
+
+m / m_std , t (seconds)
+3.000,0.463
+10.000,2.000

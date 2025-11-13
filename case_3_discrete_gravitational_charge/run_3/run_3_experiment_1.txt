@@ -1,0 +1,9 @@
+Experiment 1:
+The time (t) it takes for the standard object to fall to the ground when released from rest from a height of h.
+
+h (meters), t (seconds)
+1.000,0.085
+2.000,0.121
+5.000,0.191
+10.000,0.270
+20.000,0.381

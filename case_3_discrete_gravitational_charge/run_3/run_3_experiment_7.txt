@@ -1,0 +1,7 @@
+Experiment 7:
+The time (t) it takes for an object of mass m to fall to the ground when released from rest from a height of 10.0m.
+
+Material, m / m_std , t (seconds)
+Alpha, 4.000,0.442
+Alpha, 7.000,0.672
+Beta, 10.000,0.712

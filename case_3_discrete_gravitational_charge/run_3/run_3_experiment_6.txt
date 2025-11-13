@@ -1,0 +1,6 @@
+Experiment 6:
+The time (t) it takes for an object of mass m to fall to the ground when released from rest from a height of 10.0m.
+
+Material, m / m_std , t (seconds)
+alpha, 3.000,0.739
+beta, 3.000,0.612

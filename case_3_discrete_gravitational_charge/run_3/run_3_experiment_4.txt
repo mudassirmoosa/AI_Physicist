@@ -1,0 +1,6 @@
+Experiment 4:
+The time (t_d) it takes for an object of mass m to fall a distance d (where d is 5.0m, 10.0m, 15.0m, and 20.0m) when released from rest from a height of 20.0m.
+
+m / m_std , t_5 (seconds), t_10 (seconds), t_15 (seconds), t_20 (seconds)
+1.000,0.191,0.270,0.330,0.381
+10.000,1.414,2.000,2.449,2.828
