@@ -1,0 +1,5 @@
+Experiment 4:
+The time t it takes for a ball of mass m_0 to reach the ground when dropped with a speed of 1.0m/s from a height h.
+
+h (meters), t (seconds)
+4.000,2.080

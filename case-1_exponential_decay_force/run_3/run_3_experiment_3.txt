@@ -1,0 +1,6 @@
+Experiment 3:
+The time t it takes for an object to reach the ground when dropped from rest from a height of 8.0m.
+
+object, t (seconds)
+A,4.570
+B,4.570

@@ -1,0 +1,5 @@
+Experiment 7:
+The time t_up it takes for a ball to reach the peak point and the time t_down it takes the ball to reach the surface. The ball was thrown upwards with a speed of 5.0m/s from the surface.
+
+t_up = 7.854s
+t_down = 7.854s. 

@@ -1,0 +1,9 @@
+Experiment 5:
+The initial acceleration a of a ball of mass m0 when dropped from rest from a height h. The acceleration was calculates using a = (2*delta_h)/(delta_t**2), and delta_t = 1.0s was used in the experiment.
+
+t (seconds),y (meters)
+1.000,-0.964
+2.000,-0.926
+4.000,-0.855
+8.000,-0.728
+16.000,-0.528

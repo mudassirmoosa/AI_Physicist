@@ -1,0 +1,9 @@
+Experiment 1:
+The time t it takes for a ball of mass m_0 to reach the ground when dropped from rest from a height h.
+
+h (meters), t (seconds)
+1.000,1.438
+2.000,2.068
+4.000,3.023
+8.000,4.570
+16.000,7.382
