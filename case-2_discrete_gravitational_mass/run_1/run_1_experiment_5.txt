@@ -1,0 +1,8 @@
+Experiment 5:
+The time (t) it takes a ball of mass m to fall to the ground when released from rest from height of 20.0 glonks.
+
+m (krag), t (ticks)
+0.900,2.683
+1.100,1.483
+2.000,2.000
+100.000,2.828

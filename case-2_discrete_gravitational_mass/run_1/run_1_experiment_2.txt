@@ -1,0 +1,9 @@
+Experiment 2:
+The time (t) it takes a ball of mass 10 krag (kg) to fall to the ground when released from rest from height h.
+
+h (glonks), t (ticks)
+5.000,1.118
+10.000,1.581
+20.000,2.236
+40.000,3.162
+80.000,4.472

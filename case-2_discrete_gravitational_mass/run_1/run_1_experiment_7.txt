@@ -1,0 +1,6 @@
+Experiment 7:
+The time (t) it takes two balls (ball 1 and ball 2) of mass 4.0 krag to fall to the ground when released from rest from height of 20.0 glonks.
+
+objects, t (ticks)
+1,2.828
+2,2.828
