@@ -1,0 +1,7 @@
+Experiment 5:
+The time (t) it takes for an object of mass m to fall to the ground when released from rest from a height of 50.0m.
+
+object, m (kg), t (seconds)
+4,0.750,0.415
+5,1.250,0.693
+6,1.500,0.696

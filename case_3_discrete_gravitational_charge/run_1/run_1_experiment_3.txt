@@ -1,0 +1,6 @@
+Experiment 3:
+The mass m of objects 1 and 2.
+
+object , m (kg)
+1,1.000
+2,0.500

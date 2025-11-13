@@ -1,0 +1,14 @@
+Experiment 2:
+The time (t) it takes for the object 2 to fall the distance h. The object was released from rest from a height of 50.0m.
+
+h (meters), t (seconds)
+5.000,0.119
+10.000,0.168
+15.000,0.206
+20.000,0.237
+25.000,0.265
+30.000,0.291
+35.000,0.314
+40.000,0.336
+45.000,0.356
+50.000,0.375

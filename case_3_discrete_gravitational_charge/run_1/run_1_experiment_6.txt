@@ -1,0 +1,5 @@
+Experiment 6:
+The time (t) it takes for the object 7 (joined objects 1 and 2) to fall to the ground when released from rest from a height of 50.0m.
+
+object, m (kg), t (seconds)
+7,1.500,0.444

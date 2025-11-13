@@ -1,0 +1,14 @@
+Experiment 4:
+The time (t) it takes for an object 3 of mass 2.0 kg to fall the distance h. This object was released from rest from a height of 50.0m.
+
+h (meters), t (seconds)
+5.000,0.535
+10.000,0.756
+15.000,0.926
+20.000,1.069
+25.000,1.195
+30.000,1.309
+35.000,1.414
+40.000,1.512
+45.000,1.604
+50.000,1.690
